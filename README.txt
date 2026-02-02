@@ -53,3 +53,7 @@ Make sure your cameras and app are updated to the latest versions.
 Use a strong, stable Wi-Fi network for smoother streaming.
 
 If you have persistent problems, some users find alternative camera apps (e.g., ONVIF-based apps) that support their cameras, but compatibility varies.
+
+🧠 How to add device
+On the Login screen, check "I have read and agreed Service Agreement and Privacy Policy" and then click Visitor Login on the top right.
+On the device screen, click the "+" button to add device, select WI-FI Camera and follow the steps to add the device.
